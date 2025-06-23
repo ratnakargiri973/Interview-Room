@@ -14,5 +14,16 @@
     And this interface also the select role option is available, after interview sending message to candidate, if candidate click on the candidate button then he will go to the candidate's message pannel where candidate can reply back to the interviewer. 
     If the interviewer has not started the interview, then in the candidate messsage pannet, it will show that "Wait for interviewer to start the interview...".
     According to role, the message will align at the right or left. For sender it will show at the right and for receiver it will show at the left side in the message pannel.
+
+### What i'd improve with more time?
+    I'd improve with more time features like 
+      1. User authentication and authorization using jwt in backend as per role.
+      2. Email verification and email sending using nodemailer.
+      3. File uploading using multer.
+      4. State management using redux for more reliable.
+      5. Material UI for more attractive visualisation.
+      6. Socket.IO for messaging.
+      7. User Profile (profile picture, name, email, etc.)
+      
     
     
